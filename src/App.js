@@ -6,6 +6,7 @@ import ApplicationFrame from "./components/Frame/ApplicationFrame";
 import LygtenGallery from "./components/Galleries/LygtenGallery";
 
 function App() {
+    console.log(process.env.PUBLIC_URL)
   return (
   <div>
       <BrowserRouter basename={process.env.PUBLIC_URL}>
