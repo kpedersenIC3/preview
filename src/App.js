@@ -10,7 +10,7 @@ function App() {
   <div>
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
-          <Route exact path={"/preview"} element={<ApplicationFrame></ApplicationFrame>}></Route>
+          <Route exact path={"/"} element={<ApplicationFrame></ApplicationFrame>}></Route>
           <Route exact path={"/preview/lygten-gallery"} element={<LygtenGallery></LygtenGallery>}></Route>
         </Routes>
       </BrowserRouter>
