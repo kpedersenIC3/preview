@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uatb-preview/static/css/main.4b31c10f.css",
-    "main.js": "/uatb-preview/static/js/main.6f5a104d.js",
+    "main.js": "/uatb-preview/static/js/main.d969bf3c.js",
     "static/js/787.f3d3f3b1.chunk.js": "/uatb-preview/static/js/787.f3d3f3b1.chunk.js",
     "index.html": "/uatb-preview/index.html",
     "main.4b31c10f.css.map": "/uatb-preview/static/css/main.4b31c10f.css.map",
-    "main.6f5a104d.js.map": "/uatb-preview/static/js/main.6f5a104d.js.map",
+    "main.d969bf3c.js.map": "/uatb-preview/static/js/main.d969bf3c.js.map",
     "787.f3d3f3b1.chunk.js.map": "/uatb-preview/static/js/787.f3d3f3b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b31c10f.css",
-    "static/js/main.6f5a104d.js"
+    "static/js/main.d969bf3c.js"
   ]
 }

@@ -10,7 +10,7 @@ function App() {
   <div>
     <BrowserRouter>
       <Routes>
-        <Route exact path={"/https://kpedersenic3.github.io/preview/"} element={<ApplicationFrame></ApplicationFrame>}></Route>
+        <Route exact path={"https://kpedersenic3.github.io/preview/"} element={<ApplicationFrame></ApplicationFrame>}></Route>
 
         <Route exact path={"https://kpedersenic3.github.io/preview//lygten-gallery"} element={<LygtenGallery></LygtenGallery>}></Route>
       </Routes>
