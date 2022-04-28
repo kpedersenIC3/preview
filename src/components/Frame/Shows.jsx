@@ -9,7 +9,7 @@ const Shows = () => {
             {data.data.map(resource => {
                 console.log(resource)
                 return(
-                    <a to={resource.link} className={"bg-amber-50 w-full rounded text-grey-darkest no-underline shadow-md"}>
+                    <a href={resource.link} className={"bg-amber-50 w-full rounded text-grey-darkest no-underline shadow-md"}>
                         <h3 className={"text-xl pt-3"}>{resource.caption}</h3>
                         <img className={"block rounded-b p-3"} src={resource.image} alt={"image"}/>
                     </a>
